@@ -57,6 +57,10 @@ You can active any wallpaper as per your awesome aesthetics
 - Show on Taskbar
 - Right Click > Desktop > Clear
 
+<p align="left">
+  <img alt="" style="{max-height: 20px}" src="./Awesome Previews/Ossama's Taskbar.gif">
+</p>
+
 You can choose any option as per your awesome aesthetics
 
 ## + Follow Me : } 
