@@ -8,7 +8,7 @@
 Welcome to Awesome Desktop, the ultimate tool for designing your dream workspace! Innovative and intuitive interface, skins and lively wallpapers, you have the power to transform your desktop into a personalized oasis of productivity and inspiration 🎶
 </p>
 
-## Awesome Desktop - Possibilities
+## Awesome Desktop - Possibilities 🎉
 
 - Customization Galore
 
@@ -22,7 +22,7 @@ Welcome to Awesome Desktop, the ultimate tool for designing your dream workspace
 
 - Live Wallpapers
 
-## Apply to your Workspace
+## Apply to your Workspace 🎶
 
 ### Workspace Layout :
 
@@ -53,4 +53,16 @@ You can active any wallpaper as per your awesome aesthetics
 - Show on Taskbar
 - Right Click > Desktop > Clear
 
-You can choose any option as per your awesome aesthetics 
+You can choose any option as per your awesome aesthetics
+
+## + Follow Me : } 
+
+```py
+'''
+To get more awesome skins and lively stuff don't forget to follow me 🚀
+'''
+```
+
+<tr><td align="center"><a href="https://github.com/ossamamehmood"><kbd><img src="https://avatars3.githubusercontent.com/ossamamehmood?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Ossama Mehmood</b></sub></a><br /></td>
+
+</tr>
