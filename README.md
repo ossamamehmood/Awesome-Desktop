@@ -38,6 +38,10 @@ Welcome to Awesome Desktop, the ultimate tool for designing your dream workspace
 - Go to Layouts 'Save Layouts'
 - Load the available layout
 
+<p align="left">
+  <img alt="" style="{max-height: 20px}" src="./Awesome Previews/Ossama's Layout.gif">
+</p>
+
 ### Workspace Live Wallpaper :
 
 > Install <a href="https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7">Lively Wallpaper</a>
