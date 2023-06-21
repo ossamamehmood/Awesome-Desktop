@@ -45,6 +45,10 @@ Welcome to Awesome Desktop, the ultimate tool for designing your dream workspace
 - Open Lively Wallpapers
 - Click the + button and drop the collection of live wallpapers
 
+<p align="left">
+  <img alt="" style="{max-height: 20px}" src="./Awesome Previews/Ossama's Skin.gif">
+</p>
+
 You can active any wallpaper as per your awesome aesthetics 
 
 ### Workspace Transparent Taskbar :
@@ -52,6 +56,10 @@ You can active any wallpaper as per your awesome aesthetics
 > Install <a href="https://apps.microsoft.com/store/detail/translucenttb/9PF4KZ2VN4W9">TranslucentTB</a>
 - Show on Taskbar
 - Right Click > Desktop > Clear
+
+<p align="left">
+  <img alt="" style="{max-height: 20px}" src="./Awesome Previews/Ossama's Taskbar.gif">
+</p>
 
 You can choose any option as per your awesome aesthetics
 
