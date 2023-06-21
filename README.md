@@ -45,6 +45,10 @@ Welcome to Awesome Desktop, the ultimate tool for designing your dream workspace
 - Open Lively Wallpapers
 - Click the + button and drop the collection of live wallpapers
 
+<p align="left">
+  <img alt="" style="{max-height: 20px}" src="./Awesome Previews/Ossama's Skin.gif">
+</p>
+
 You can active any wallpaper as per your awesome aesthetics 
 
 ### Workspace Transparent Taskbar :
