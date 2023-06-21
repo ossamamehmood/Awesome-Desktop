@@ -1,0 +1,26 @@
+Styles|Label:styleLabel|Range:styleRange|RangeFill:styleRangeFill|Checkbox:styleCheckbox|Fill:styleCheckboxFill|RangeInput:styleRangeInput
+Group|Display
+	Range|Radius|0,1024,4|Radius:The width of the circle
+	Range|RadiusY|0,1024,4|Radius Y:The height of the circle
+	Range|ItemWidth|1,128,1|Item Width:The width of each line/bar
+	Range|NumOfItems|5,128,1|Num Of Items:The number of lines/bars
+	Range|ExtrudeMax|4,512,4|Max Extrude:How much to extrude the lines/bars
+	Range|ExtrudeMin|0,32,1|Min Extrude:How much to extrude the lines/bars when frequency is 0
+	Checkbox|Inward|Inward:Whether the lines/bars should go inwards or not
+	Checkbox|ClockWise|Clockwise:Whether frequency goes clockwise. Does NOT affect angle settings
+	Range|AngleStartDeg|0,360,1|Angle Start:At what degree the lines/bars start (ie. the lowest freq)
+	Range|AngleTotalDeg|0,360,1|Angle Total:How many degrees the lines/bars arc
+	Range|Smoothing|0,1,0.1|Smoothing:Smooths the frequency by averaging with neighbor points
+Group|Color
+	Color|ItemColor|Single Color
+	Color|ItemColor2|Single Color 2
+	Label|Gradient
+Group|Audio
+	Select|FFTSize|256,512,1024,2048,3072,4096|Freq Resolution:FFTSize: The higher the number, the more the CPU usage
+	Range|FFTAttack|0,1000,1|Attack Time:FFTAttack: Time in ms for how fast a bar rises
+	Range|FFTDecay|0,1000,1|Decay Time:FFTDecay: Time in ms for how fast a bar falls
+	Range|FreqMin|0,320,10|Min Frequency:FreqMin: Lowest frequency in Hz
+	Range|FreqMax|0,24000,10|Max Frequency:FreqMax: Highest frequency in Hz
+	Range|Sensitivity|0,100,1|Sensitivity:Sensitivity to sounds, in dB. Higher value means responding to quieter sounds
+	Select|AudioDevicePort|Input,Output|Port:Whether to use input or output port, affects the audio devices selection
+	Select|AudioDeviceID|$audioDevices|Audio Device:Which audio device to read sounds from

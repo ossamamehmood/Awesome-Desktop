@@ -1,0 +1,13 @@
+Tutorial: https://youtu.be/SznosFsYzoE
+
+Open the Photoshop File
+Change the Text to suit your program
+Place your Icon in the middle of the Crosshair, Icon size: 150px
+
+Save as desired name and as png in @Resources\Buttons\Black
+Invert the whole image and save as the same name and as png in @Resources\Buttons\White
+
+In the .ini: Replace
+NAMEHERE with the name of your button/program
+PATHHERE with the path of your program
+

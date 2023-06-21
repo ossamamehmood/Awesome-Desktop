@@ -1,0 +1,10 @@
+[Variables]
+Active=0
+Display1=Display2.ini
+Controller=Display.ini
+Background=Display2.ini
+Display2=Display.ini
+LastActive=Display1|Background|Display3|Controller
+Configuration=List2.ini
+Background2=Display.ini
+Display3=Display2.ini
